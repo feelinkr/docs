@@ -1,1 +1,1 @@
-# Feelinkr Dokumentáció
+# FeelinkR Dokumentáció
